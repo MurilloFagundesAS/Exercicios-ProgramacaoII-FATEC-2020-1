@@ -1,0 +1,1 @@
+print(f"Um \n","Dois \n", "Três")
